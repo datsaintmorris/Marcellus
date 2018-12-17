@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	color: #FF070B;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 30px;
+	font-weight: lighter;
+	text-align: center;
+	
+	
+@charset "utf-8";
+/* CSS Document */
+
+p {color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 16px;
+	font-weight: normal;
+	
+	
+}
+
+
+
+
+h2{color:#FFFFFF;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 30px;
+	font-weight: normal;
+	
+	
+}
+
+.Eagles {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+li{color:#FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 40px;
+	font-weight: normal;
+
+		
+	
+	
+
+	
+	
+
+}
+
+h3{
+	color: #FFFFFF;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 70px;
+	font-weight:bold;
+	text-align: center
+	
+}
+
+h4{
+	color: #00FF6C;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 30px;
+	font-weight: inherit;
+	text-align: center
+}
+
+.HEADER {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.Link {
+	color: inherit;
+}
+
+
+
+
+h2{color:#FFFFFF;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 30px;
+	font-weight: normal;
+	
+	
+}
+
+li{color:#FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 40px;
+	font-weight: normal;
+
+		
+	
+	
+
+	
+	
+
+}
+
+h3{
+	color: #FFFFFF;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 70px;
+	font-weight:bold;
+	text-align: center
+	
+}
+
+h4{
+	color: #00FF6C;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 30px;
+	font-weight: inherit;
+	text-align: center
+}
+
+.HEADER {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+	
+h5{
+	color: #00FF0C;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 40px;
+	font-weight: normal;
+	text-align: center;
+	
+
+}
